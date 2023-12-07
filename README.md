@@ -15,6 +15,7 @@ Dynamic rendering of illustrations with OpenGL.
 # Materials needed 
 
 C++ compiler
+
 Open Gl library 
 
 # Implementation 
